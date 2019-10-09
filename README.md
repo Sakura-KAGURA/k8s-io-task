@@ -2,7 +2,7 @@
 https://kubernetes.io/docs/tasks/
 
 1. Install Tools
-  1. Install and Set Up kubectl
+  1. [Install and Set Up kubectl](./01_Installkubectl.md)
   1. Install Minikube
 1. Configure Pods and Containers (20)
 	1. Assign Memory Resources to Containers and Pods
