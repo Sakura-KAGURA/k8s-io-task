@@ -141,16 +141,16 @@ https://kubernetes.io/docs/tasks/
 	1. Troubleshoot Clusters
 	1. Troubleshooting
 1. Extend Kubernetes
-Use Custom Resources
-Extend the Kubernetes API with CustomResourceDefinitions
-Versions in CustomResourceDefinitions
-Configure the Aggregation Layer
-Setup an Extension API Server
-Use an HTTP Proxy to Access the Kubernetes API
-TLS
-Certificate Rotation
-Manage TLS Certificates in a Cluster
-Federation
+	1. Use Custom Resources
+		1. Extend the Kubernetes API with CustomResourceDefinitions
+		1. Versions in CustomResourceDefinitions
+	1. Configure the Aggregation Layer
+	1. Setup an Extension API Server
+	1. Use an HTTP Proxy to Access the Kubernetes API
+1. TLS
+	1. Certificate Rotation
+	1. Manage TLS Certificates in a Cluster
+1. Federation
 Set up Cluster Federation with Kubefed
 Set up CoreDNS as DNS provider for Cluster Federation
 Set up placement policies in Federation
@@ -167,7 +167,7 @@ Federated Jobs
 Federated Namespaces
 Federated ReplicaSets
 Federated Secrets
-Manage Cluster Daemons
+1. Manage Cluster Daemons
 Perform a Rolling Update on a DaemonSet
 Perform a Rollback on a DaemonSet
 Install Service Catalog
