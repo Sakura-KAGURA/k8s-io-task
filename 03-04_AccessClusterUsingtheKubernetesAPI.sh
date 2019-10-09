@@ -10,4 +10,8 @@ kubectl config view
 ### ???proxyを停止するときはどうする???
 kubectl proxy --port=8080 &
 curl http://localhost:8080/api/
+
+### proxy
+# https://techstep.hatenablog.com/entry/2019/01/27/220044
+
 # Accessing the Kubernetes API
