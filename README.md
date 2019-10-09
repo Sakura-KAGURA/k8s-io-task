@@ -78,69 +78,69 @@ https://kubernetes.io/docs/tasks/
 	Using a KMS provider for data encryption
 	Using sysctls in a Kubernetes Cluster
 1. Manage Kubernetes Objects
- Declarative Management of Kubernetes Objects Using Configuration Files
- Declarative Management of Kubernetes Objects Using Kustomize
- Managing Kubernetes Objects Using Imperative Commands
- Imperative Management of Kubernetes Objects Using Configuration Files
+	Declarative Management of Kubernetes Objects Using Configuration Files
+	Declarative Management of Kubernetes Objects Using Kustomize
+	Managing Kubernetes Objects Using Imperative Commands
+	Imperative Management of Kubernetes Objects Using Configuration Files
 1. Inject Data Into Applications
-Define a Command and Arguments for a Container
-Define Environment Variables for a Container
-Expose Pod Information to Containers Through Environment Variables
-Expose Pod Information to Containers Through Files
-Distribute Credentials Securely Using Secrets
-Inject Information into Pods Using a PodPreset
-Run Applications
-Run a Stateless Application Using a Deployment
-Run a Single-Instance Stateful Application
-Run a Replicated Stateful Application
-Update API Objects in Place Using kubectl patch
-Scale a StatefulSet
-Delete a StatefulSet
-Force Delete StatefulSet Pods
-Perform Rolling Update Using a Replication Controller
-Horizontal Pod Autoscaler
-Horizontal Pod Autoscaler Walkthrough
-Specifying a Disruption Budget for your Application
-Run Jobs
-Running Automated Tasks with a CronJob
-Parallel Processing using Expansions
-Coarse Parallel Processing Using a Work Queue
-Fine Parallel Processing Using a Work Queue
-Access Applications in a Cluster
-Web UI (Dashboard)
-Accessing Clusters
-Configure Access to Multiple Clusters
-Use Port Forwarding to Access Applications in a Cluster
-Use a Service to Access an Application in a Cluster
-Connect a Front End to a Back End Using a Service
-Create an External Load Balancer
-Configure Your Cloud Provider's Firewalls
-List All Container Images Running in a Cluster
-Set up Ingress on Minikube with the NGINX Ingress Controller
-Communicate Between Containers in the Same Pod Using a Shared Volume
-Configure DNS for a Cluster
-Monitoring, Logging, and Debugging
-Application Introspection and Debugging
-Auditing
-Auditing with Falco
-Debug Init Containers
-Debug Pods and ReplicationControllers
-Debug Services
-Debug a StatefulSet
-Debugging Kubernetes nodes with crictl
-Determine the Reason for Pod Failure
-Developing and debugging services locally
-Events in Stackdriver
-Get a Shell to a Running Container
-Logging Using Elasticsearch and Kibana
-Logging Using Stackdriver
-Monitor Node Health
-Resource metrics pipeline
-Tools for Monitoring Resources
-Troubleshoot Applications
-Troubleshoot Clusters
-Troubleshooting
-Extend Kubernetes
+	Define a Command and Arguments for a Container
+	Define Environment Variables for a Container
+	Expose Pod Information to Containers Through Environment Variables
+	Expose Pod Information to Containers Through Files
+	Distribute Credentials Securely Using Secrets
+	Inject Information into Pods Using a PodPreset
+1. Run Applications
+	Run a Stateless Application Using a Deployment
+	Run a Single-Instance Stateful Application
+	Run a Replicated Stateful Application
+	Update API Objects in Place Using kubectl patch
+	Scale a StatefulSet
+	Delete a StatefulSet
+	Force Delete StatefulSet Pods
+	Perform Rolling Update Using a Replication Controller
+	Horizontal Pod Autoscaler
+	Horizontal Pod Autoscaler Walkthrough
+	Specifying a Disruption Budget for your Application
+1. Run Jobs
+	1. Running Automated Tasks with a CronJob
+	1. Parallel Processing using Expansions
+	1. Coarse Parallel Processing Using a Work Queue
+	1. Fine Parallel Processing Using a Work Queue
+	1. Access Applications in a Cluster
+	1. Web UI (Dashboard)
+	1. Accessing Clusters
+	1. Configure Access to Multiple Clusters
+	1. Use Port Forwarding to Access Applications in a Cluster
+	1. Use a Service to Access an Application in a Cluster
+	1. Connect a Front End to a Back End Using a Service
+	1. Create an External Load Balancer
+	1. Configure Your Cloud Provider's Firewalls
+	1. List All Container Images Running in a Cluster
+	1. Set up Ingress on Minikube with the NGINX Ingress Controller
+	1. Communicate Between Containers in the Same Pod Using a Shared Volume
+	1. Configure DNS for a Cluster
+1. Monitoring, Logging, and Debugging
+	1. Application Introspection and Debugging
+	1. Auditing
+	1. Auditing with Falco
+	1. Debug Init Containers
+	1. Debug Pods and ReplicationControllers
+	1. Debug Services
+	1. Debug a StatefulSet
+	1. Debugging Kubernetes nodes with crictl
+	1. Determine the Reason for Pod Failure
+	1. Developing and debugging services locally
+	1. Events in Stackdriver
+	1. Get a Shell to a Running Container
+	1. Logging Using Elasticsearch and Kibana
+	1. Logging Using Stackdriver
+	1. Monitor Node Health
+	1. Resource metrics pipeline
+	1. Tools for Monitoring Resources
+	1. Troubleshoot Applications
+	1. Troubleshoot Clusters
+	1. Troubleshooting
+1. Extend Kubernetes
 Use Custom Resources
 Extend the Kubernetes API with CustomResourceDefinitions
 Versions in CustomResourceDefinitions
