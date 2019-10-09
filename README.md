@@ -151,30 +151,30 @@ https://kubernetes.io/docs/tasks/
 	1. Certificate Rotation
 	1. Manage TLS Certificates in a Cluster
 1. Federation
-Set up Cluster Federation with Kubefed
-Set up CoreDNS as DNS provider for Cluster Federation
-Set up placement policies in Federation
-Cross-cluster Service Discovery using Federated Services
-Administer Federation Control Plane
-Federated Cluster
-Federated ConfigMap
-Federated DaemonSet
-Federated Deployment
-Federated Events
-Federated Horizontal Pod Autoscalers (HPA)
-Federated Ingress
-Federated Jobs
-Federated Namespaces
-Federated ReplicaSets
-Federated Secrets
+	1. Set up Cluster Federation with Kubefed
+	1. Set up CoreDNS as DNS provider for Cluster Federation
+	1. Set up placement policies in Federation
+	1. Cross-cluster Service Discovery using Federated Services
+	1. Administer Federation Control Plane
+	1. Federated Cluster
+	1. Federated ConfigMap
+	1. Federated DaemonSet
+	1. Federated Deployment
+	1. Federated Events
+	1. Federated Horizontal Pod Autoscalers (HPA)
+	1. Federated Ingress
+	1. Federated Jobs
+	1. Federated Namespaces
+	1. Federated ReplicaSets
+	1. Federated Secrets
 1. Manage Cluster Daemons
 Perform a Rolling Update on a DaemonSet
 Perform a Rollback on a DaemonSet
-Install Service Catalog
-Install Service Catalog using Helm
-Install Service Catalog using SC
-Network
-Validate IPv4/IPv6 dual-stack
-Extend kubectl with plugins
-Manage HugePages
-Schedule GPUs
+1. Install Service Catalog
+	1. Install Service Catalog using Helm
+	1. Install Service Catalog using SC
+1. Network
+	1. Validate IPv4/IPv6 dual-stack
+1. Extend kubectl with plugins
+1. Manage HugePages
+1. Schedule GPUs
