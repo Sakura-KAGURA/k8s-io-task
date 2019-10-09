@@ -2,29 +2,29 @@
 https://kubernetes.io/docs/tasks/
 
 1. Install Tools
-  Install and Set Up kubectl
-  Install Minikube
+  1. Install and Set Up kubectl
+  1. Install Minikube
 1. Configure Pods and Containers
-	Assign Memory Resources to Containers and Pods
-	Assign CPU Resources to Containers and Pods
-	Configure GMSA for Windows pods and containers
-	Configure RunAsUserName for Windows pods and containers
-	Configure Quality of Service for Pods
-	Assign Extended Resources to a Container
-	Configure a Pod to Use a Volume for Storage
-	Configure a Pod to Use a PersistentVolume for Storage
-	Configure a Pod to Use a Projected Volume for Storage
-	Configure a Security Context for a Pod or Container
-	Configure Service Accounts for Pods
-	Pull an Image from a Private Registry
-	Configure Liveness, Readiness and Startup Probes
-	Assign Pods to Nodes
-	Configure Pod Initialization
-	Attach Handlers to Container Lifecycle Events
-	Configure a Pod to Use a ConfigMap
-	Share Process Namespace between Containers in a Pod
-	Create static Pods
-	Translate a Docker Compose File to Kubernetes Resources
+	1. Assign Memory Resources to Containers and Pods
+	1. Assign CPU Resources to Containers and Pods
+	1. Configure GMSA for Windows pods and containers
+	1. Configure RunAsUserName for Windows pods and containers
+	1. Configure Quality of Service for Pods
+	1. Assign Extended Resources to a Container
+	1. Configure a Pod to Use a Volume for Storage
+	1. Configure a Pod to Use a PersistentVolume for Storage
+	1. Configure a Pod to Use a Projected Volume for Storage
+	1. Configure a Security Context for a Pod or Container
+	1. Configure Service Accounts for Pods
+	1. Pull an Image from a Private Registry
+	1. Configure Liveness, Readiness and Startup Probes
+	1. Assign Pods to Nodes
+	1. Configure Pod Initialization
+	1. Attach Handlers to Container Lifecycle Events
+	1. Configure a Pod to Use a ConfigMap
+	1. Share Process Namespace between Containers in a Pod
+	1. Create static Pods
+	1. Translate a Docker Compose File to Kubernetes Resources
 1. Administer a Cluster
 	Administration with kubeadm
 	Certificate Management with kubeadm
