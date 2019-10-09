@@ -48,41 +48,41 @@ https://kubernetes.io/docs/tasks/
 	Autoscale the DNS Service in a Cluster
 	Change the Reclaim Policy of a PersistentVolume
 	Change the default StorageClass
-Cluster Management
-Configure Multiple Schedulers
-Configure Out Of Resource Handling
-Configure Quotas for API Objects
-Control CPU Management Policies on the Node
-Control Topology Management Policies on a node
-Customizing DNS Service
-Debugging DNS Resolution
-Declare Network Policy
-Developing Cloud Controller Manager
-Enabling Endpoint Slices
-Encrypting Secret Data at Rest
-Guaranteed Scheduling For Critical Add-On Pods
-IP Masquerade Agent User Guide
-Kubernetes Cloud Controller Manager
-Limit Storage Consumption
-Namespaces Walkthrough
-Operating etcd clusters for Kubernetes
-Reconfigure a Node's Kubelet in a Live Cluster
-Reserve Compute Resources for System Daemons
-Safely Drain a Node while Respecting the PodDisruptionBudget
-Securing a Cluster
-Set Kubelet parameters via a config file
-Set up High-Availability Kubernetes Masters
-Share a Cluster with Namespaces
-Using CoreDNS for Service Discovery
-Using NodeLocal DNSCache in Kubernetes clusters
-Using a KMS provider for data encryption
-Using sysctls in a Kubernetes Cluster
-Manage Kubernetes Objects
-Declarative Management of Kubernetes Objects Using Configuration Files
-Declarative Management of Kubernetes Objects Using Kustomize
-Managing Kubernetes Objects Using Imperative Commands
-Imperative Management of Kubernetes Objects Using Configuration Files
-Inject Data Into Applications
+	Cluster Management
+	Configure Multiple Schedulers
+	Configure Out Of Resource Handling
+	Configure Quotas for API Objects
+	Control CPU Management Policies on the Node
+	Control Topology Management Policies on a node
+	Customizing DNS Service
+	Debugging DNS Resolution
+	Declare Network Policy
+	Developing Cloud Controller Manager
+	Enabling Endpoint Slices
+	Encrypting Secret Data at Rest
+	Guaranteed Scheduling For Critical Add-On Pods
+	IP Masquerade Agent User Guide
+	Kubernetes Cloud Controller Manager
+	Limit Storage Consumption
+	Namespaces Walkthrough
+	Operating etcd clusters for Kubernetes
+	Reconfigure a Node's Kubelet in a Live Cluster
+	Reserve Compute Resources for System Daemons
+	Safely Drain a Node while Respecting the PodDisruptionBudget
+	Securing a Cluster
+	Set Kubelet parameters via a config file
+	Set up High-Availability Kubernetes Masters
+	Share a Cluster with Namespaces
+	Using CoreDNS for Service Discovery
+	Using NodeLocal DNSCache in Kubernetes clusters
+	Using a KMS provider for data encryption
+	Using sysctls in a Kubernetes Cluster
+1. Manage Kubernetes Objects
+ Declarative Management of Kubernetes Objects Using Configuration Files
+ Declarative Management of Kubernetes Objects Using Kustomize
+ Managing Kubernetes Objects Using Imperative Commands
+ Imperative Management of Kubernetes Objects Using Configuration Files
+1. Inject Data Into Applications
 Define a Command and Arguments for a Container
 Define Environment Variables for a Container
 Expose Pod Information to Containers Through Environment Variables
