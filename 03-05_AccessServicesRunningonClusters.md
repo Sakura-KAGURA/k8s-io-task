@@ -1,6 +1,7 @@
-# doc
-https://kubernetes.io/docs/tasks/administer-cluster/access-cluster-services/
-
+# Access Services Running on Clusters
+  - doc
+    https://kubernetes.io/docs/tasks/administer-cluster/access-cluster-services/
+  - script
 ## Before you begin
 ## Accessing services running on the cluster
 ### Ways to connect アクセス方法
