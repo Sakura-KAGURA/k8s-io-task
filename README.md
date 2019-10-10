@@ -43,7 +43,7 @@ https://kubernetes.io/docs/tasks/
 		1. Weave Net for NetworkPolicy
 	1. [Access Clusters Using the Kubernetes API](./03-04_AccessClusterUsingtheKubernetesAPI.md)
 	1. Access Services Running on Clusters
-	1. Advertise Extended Resources for a Node
+	1. [Advertise Extended Resources for a Node](./03-06_AdvertiseExtendedResourcesforaNode.md)
 	1. Autoscale the DNS Service in a Cluster
 	1. Change the Reclaim Policy of a PersistentVolume
 	1. Change the default StorageClass
