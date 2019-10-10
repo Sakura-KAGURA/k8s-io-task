@@ -7,3 +7,6 @@ kubectl get nodes
 # プロキシ
 kubectl proxy
 
+# 
+kubectl describe node <your-node-name>
+
